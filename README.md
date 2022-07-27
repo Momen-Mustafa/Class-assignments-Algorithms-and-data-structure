@@ -18,6 +18,5 @@ The requirements for the second assignment:
 ascending order.
 For example, if the linked list contains the words: 'Cat', 'Book' and 'Copy'. Then possible sorts will
 be
-A) 'Book', 'Cat' and 'Copy';
-B) 'Book', 'Copy' and 'Cat'.
+A) 'Book', 'Cat' and 'Copy'; B) 'Book', 'Copy' and 'Cat'.
 4-Your sort method should not care whether the letters are in capital or not.
