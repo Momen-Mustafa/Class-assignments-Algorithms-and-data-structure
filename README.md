@@ -13,10 +13,14 @@ The requirements for the first assignment:
 The requirements for the second assignment:
 
 1- Create a java application to ask the user to enter a set of words.
+
 2- Save the provided words in a doubly linked list.
+
 3- Sort the data in the linked list using Merge sort. The data should be sorted by the first character in
 ascending order.
+
 For example, if the linked list contains the words: 'Cat', 'Book' and 'Copy'. Then possible sorts will
 be
 A) 'Book', 'Cat' and 'Copy'; B) 'Book', 'Copy' and 'Cat'.
+
 4-Your sort method should not care whether the letters are in capital or not.
